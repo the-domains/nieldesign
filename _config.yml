@@ -1,0 +1,28 @@
+name: nieldesign
+favicon: null
+layout_spectrum: 0.34847270604223013
+typography_spectrum: 0.9387229811400175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23014010326005518
+  lightness: 0.5572759471833706
+  saturation: 0.5735334828495979
+  rhythmicContrast: 0.9371619247831404
+purpose: []
